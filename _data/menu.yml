@@ -1,0 +1,13 @@
+- title: "About"
+  href: "/about/"
+
+- title: "CV"
+  href: "/cv/"
+
+- title: "Projects"
+  href: "/projects/"
+  subcategories:
+    - subtitle: "PhD"
+      subhref: "/projects/phd/"
+    - subtitle: "Other"
+      subhref: "/projects/other/"
