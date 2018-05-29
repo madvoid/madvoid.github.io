@@ -14,7 +14,9 @@ In the early part of 2017, I was a visiting researcher at the University of Toul
 
 During the summer of 2013, I was a student at the Los Alamos Dynamics Summer School at Los Alamos National Lab. This lab mostly focused on structural health monitoring, an important sub discipline of civil engineering. While there, my team and I worked on building a quadcopter that could pneumatically launch a sensor at a target. Since mounting sensors on structures to monitor their health can be [expensive](http://catsr.ite.gmu.edu/SYST490/490_2014_BI/BIS_FinalReport.pdf), inspectors can save costs by having a quadcopter do it.
 
-My main task for this project was to design and implement an object-tracking program using C++ and openCV for the quadcopter to locate and fly to it’s target. I then ported this program to an Android phone so it could run on the quadcopter directly. Finally, I helped design and build the pneumatic launcher that was used to launch the sensor.
+My main task for this project was to design and implement an object-tracking program using C++ and openCV for the quadcopter to locate and fly to it’s target. I then ported this program to an Android phone so it could run on the quadcopter directly. Finally, I helped design and build the pneumatic launcher that was used to launch the sensor. The following image shows the quadcopter with the projectile launching mechanism attached to it.
+
+![Quadcopter](/images/Quadcopter.png)
 
 ## Engineering Institute Korea
 
