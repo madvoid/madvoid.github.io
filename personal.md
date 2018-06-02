@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hobbies and Interests
+permalink: /personal/
 ---
 
 {% include image.html url="/images/AboutMe.jpg" caption="Me (Left)" width=300 align="right" %}

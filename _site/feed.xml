@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nipun Gunawardena</title>
-    <description>This website serves to give context to my resume so one day, I too, may have a job.
+    <description>Multidisciplinary engineer looking to make a difference
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 May 2018 00:18:53 -0600</pubDate>
-    <lastBuildDate>Tue, 29 May 2018 00:18:53 -0600</lastBuildDate>
+    <pubDate>Sat, 02 Jun 2018 03:46:32 -0600</pubDate>
+    <lastBuildDate>Sat, 02 Jun 2018 03:46:32 -0600</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
   </channel>

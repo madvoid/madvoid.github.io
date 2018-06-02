@@ -58,3 +58,12 @@ $on-laptop:        950px;
         "syntax-highlighting",
 	"fancy-image"
 ;
+
+
+
+// Center image - Found at https://thornelabs.net/2014/11/30/centering-images-with-jekyll-and-markdown.html
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}

@@ -776,3 +776,7 @@ ul.listing li.listing-item a {
   display: block;
   margin-left: auto;
   margin-right: auto; }
+
+.center-image {
+  margin: 0 auto;
+  display: block; }

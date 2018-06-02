@@ -26,13 +26,13 @@ My work at the Engineering Institute - Korea (EIK) in the summer of 2014 also ha
 
 ## Hydroponics
 
-A fellow PhD student and I designed and built a consumer hydroponics box with the intent to sell. This box was designed to look good, grow plants easily, and be relatively inexpensive. They hydroponics part itself was an ebb and flow system, and the grow chamber was partially temperature controlled. We grew many different commonly used culinary plants, and they all grew well. The pictures below show the hydroponic box in action.
+A fellow PhD student and I designed and built a consumer hydroponics box with the intent to sell. This box was designed to look good, grow plants easily, and be relatively inexpensive. The hydroponics part itself was an ebb and flow system, and the grow chamber was partially temperature controlled. We grew many different commonly used culinary plants (herbs, lettuce, etc.), and they all grew well. The pictures below show the hydroponic box in action.
 
 ![Hydro1](/images/Hydro1.jpeg)
 
 ![Hydro2](/images/Hydro2.jpeg)
 
-![Hydro3](/images/Hydro3.gif)
+![Hydro3](/images/Hydro3.gif){: .center-image }
 
 ## Other
 

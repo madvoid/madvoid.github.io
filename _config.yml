@@ -2,8 +2,7 @@
 title: Nipun Gunawardena
 email: 1.nipun@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This website serves to give context to my resume
-  so one day, I too, may have a job.
+  Multidisciplinary engineer looking to make a difference
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.madvoid.github.io" # the base hostname & protocol for your site
 twitter_username: NipunUG
